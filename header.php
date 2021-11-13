@@ -16,7 +16,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <?php wp_nav_menu([
-               'theme_location' => 'Header',
+               'theme_location' => 'header',
                'container' => false,
                'menu_class' => 'navbar-nav mr-auto mx-auto'
             ]) ?>
